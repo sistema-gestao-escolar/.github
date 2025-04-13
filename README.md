@@ -1,1 +1,1 @@
-# .github
+# Sistema de Gestão Escolar

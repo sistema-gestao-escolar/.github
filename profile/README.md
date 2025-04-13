@@ -10,7 +10,6 @@ O **Sistema de Gestão Escolar** foi desenvolvido como parte da disciplina de *D
 - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32">](https://developer.mozilla.org/en-US/docs/Web/CSS) **CSS**
 - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) **JavaScript**
 - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="32">](https://getbootstrap.com/) **Bootstrap**
-- 
 ## 📝 Funcionalidades
 
 - 👨‍🎓 Cadastro de alunos, professores e matérias

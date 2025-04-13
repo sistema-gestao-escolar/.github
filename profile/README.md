@@ -6,12 +6,12 @@ O **Sistema de Gestão Escolar** foi desenvolvido como parte da disciplina de *D
 
 ## 🛠 Tecnologias Utilizadas
 **Principais Tecnologias:**
-- ![HTML](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg) **HTML** 🚀
-- ![CSS](https://upload.wikimedia.org/wikipedia/commons/6/63/CSS3_logo.svg) **CSS** 🎨
-- ![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/69/JavaScript_logo_%28in_colours%29.svg) **JavaScript** ⚡
-- ![Bootstrap](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo_2020.svg) **Bootstrap** 🎨
-
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="32" height="32" alt="HTML"> **HTML** 🚀
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/CSS3_logo.svg" width="32" height="32" alt="CSS"> **CSS** 🎨
+- <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/JavaScript_logo_%28in_colours%29.svg" width="32" height="32" alt="JavaScript"> **JavaScript** ⚡
+- <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo_2020.svg" width="32" height="32" alt="Bootstrap"> **Bootstrap** 🎨
 ## 📝 Funcionalidades
+
 - 👨‍🎓 Cadastro de alunos, professores e matérias
 - 📊 Sistema de notas e avaliações
 - 📅 Calendário de eventos e provas

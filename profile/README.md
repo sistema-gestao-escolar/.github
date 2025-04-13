@@ -6,10 +6,11 @@ O **Sistema de Gestão Escolar** foi desenvolvido como parte da disciplina de *D
 
 ## 🛠 Tecnologias Utilizadas
 **Principais Tecnologias:**
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="32" height="32" alt="HTML"> **HTML** 🚀
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/CSS3_logo.svg" width="32" height="32" alt="CSS"> **CSS** 🎨
-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/JavaScript_logo_%28in_colours%29.svg" width="32" height="32" alt="JavaScript"> **JavaScript** ⚡
-- <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo_2020.svg" width="32" height="32" alt="Bootstrap"> **Bootstrap** 🎨
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32">](https://developer.mozilla.org/en-US/docs/Web/HTML) **HTML**
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="32">](https://developer.mozilla.org/en-US/docs/Web/CSS) **CSS**
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) **JavaScript**
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="32">](https://getbootstrap.com/) **Bootstrap**
+- 
 ## 📝 Funcionalidades
 
 - 👨‍🎓 Cadastro de alunos, professores e matérias
